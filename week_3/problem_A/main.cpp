@@ -23,5 +23,7 @@ int main()
 
 	cout << endl << sum << endl;
 
+	delete [] array;
+
 	return 0;
 }
