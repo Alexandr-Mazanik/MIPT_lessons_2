@@ -28,7 +28,6 @@ int main()
 		field[mine_y][mine_x] = -1;
 	}
 
-	cout << endl;
 	for (int i=1; i <= n; i++)
 	{
 		for (int j=1; j <= m; j++)

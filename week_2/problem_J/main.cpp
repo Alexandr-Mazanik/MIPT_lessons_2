@@ -33,7 +33,7 @@ int main()
 			babylon_number = "." + babylon_number;
 	}
 
-	cout << endl << babylon_number << endl;
+	cout << babylon_number << endl;
 
 	return 0;
 }

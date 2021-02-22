@@ -7,7 +7,6 @@ int main()
 	int N, divider = 2;
 
 	cin >> N;
-	cout << endl;
 
 	while (N > 1)
 	{
